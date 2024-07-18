@@ -1,9 +1,6 @@
-/* src/App.css */
 .App {
   text-align: center;
-  
 }
-
 
 .App-header {
   background-image: url('https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg');
@@ -22,7 +19,6 @@ form {
   border-radius: 10px;
 }
 
-
 input {
   margin: 5px;
   padding: 8px;
@@ -40,4 +36,8 @@ button {
 
 button:hover {
   background-color: #21a1f1;
+}
+
+.user{
+  text-align:left;
 }
